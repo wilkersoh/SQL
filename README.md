@@ -1,9 +1,5 @@
 # SQL tutorial
 
-Tags: Mysql
-
-- Bookmark
-
 ### Introduction
 
 - Client connect to DBMS (Database Management System) and give an instruction for querying or modify data. The DBMS will execute the instruction to datbase and send back the data.
