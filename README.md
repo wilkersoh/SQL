@@ -435,7 +435,7 @@ WHERE o.customer_id = c.customer_id
 
 ### JOIN Image
 
-![SQL%20tutorial%20984b81749fb5464dbf5d5b4febc497a5/Untitled.png](SQL%20tutorial%20984b81749fb5464dbf5d5b4febc497a5/Untitled.png)
+![Image_of_join.png](https://github.com/wilkersoh/SQL/blob/master/images/join_table.png)
 
 NOTE: 
 
@@ -479,7 +479,7 @@ LEFT JOIN order_items oi
 	ON p.product_id = oi.product_id
 ```
 
-![SQL%20tutorial%20984b81749fb5464dbf5d5b4febc497a5/Screenshot_2021-01-31_at_3.55.57_PM.png](SQL%20tutorial%20984b81749fb5464dbf5d5b4febc497a5/Screenshot_2021-01-31_at_3.55.57_PM.png)
+![Example Left Table](https://github.com/wilkersoh/SQL/blob/master/images/left_table.png)
 
 ### Outer Joins Between Multiple Tables
 
